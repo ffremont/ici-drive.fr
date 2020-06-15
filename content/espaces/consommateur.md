@@ -6,19 +6,28 @@ description = "Acheteur, je réserve les produits près de chez moi"
 categories = ["consommateur"]
 +++
 
-## Où réserver
-Je découvrir les produits et je réserve sur le site [https://app.ici-drive.fr](https://app.ici-drive.fr)
+## Pour réserver c'est ici 
+ [https://app.ici-drive.fr](https://app.ici-drive.fr)
 
-## Comment cela se passe ?
-### Réservation
-Chaque producteur adapte la date du retrait en fonction de son activité (min 5jrs après). Lorsque votre réservation est terminée sur app.ici-drive.fr. Le producteur peut la vérifier jusqu'à 72h avant la date du retrait.
+## Mode d'emploi
+### 1. Choix du producteur
+Rechercher par lieux ou catégories les producteurs
 
-### Vérification par le producteur
-Le producteur s'assure d'avoir le stock suffisant pour honorer la réservation. Le cas échéant une note sera transmise.
+### 2. Remplissage du panier
 
-### Confirmation par le consommateur
-Un lapse de temps peut s'écouler entre la réservation et la vérification. Pour éviter tout oubli. Une confirmation est nécessaire jusqu'à 48h avant la date du retrait.
-En cas de réservation compatible par PayPal, le producteur enverra la demande de paiement.
+### 3. Choix de la date du retrait 
+Dépendant du planning du producteur
 
-### Retrait
-Le retrait se fera à la date choisie lors de la réservation sur le lieu du Drive du producteur. Toutes les informations se trouvent sur votre app dans "mes réservations".
+### 4. Validation de la réservation
+
+### 5. Vérification par le producteur
+Le producteur vérifie le stock au plus tard 72h avant la date du retrait.
+
+### 6. Confirmation la réservation
+Au plus tard 48h avant le retrait
+
+### 7. Paiement et retrait
+Rendez-vous sur l'emplacement du producteur
+
+## c'est Ici ! 
+[https://app.ici-drive.fr](https://app.ici-drive.fr)

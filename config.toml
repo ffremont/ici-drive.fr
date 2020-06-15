@@ -79,7 +79,7 @@ logo = "images/ici-drive-banner.png"
 author = "Florent"
 description = "Réservation de produits locaux près de chez vous grâce à ici-drive."
 # google tag manager
-google_tag_manager = "" # your id
+google_tag_manager = "UA-164078504-1" # your id
 # google analitycs ID
 google_analitycs_id = "" # your id
 # contact form action
@@ -125,7 +125,7 @@ link = "https://www.facebook.com/Ici-drive-107385147684083/"
 #link = "#"
 #[[params.social]]
 #icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-#link = "#"
+#link = "https://github.com/ffremont/ici-drive.fr"
 #[[params.social]]
 #icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
 #link = "#"

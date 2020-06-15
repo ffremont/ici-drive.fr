@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,124 +7,64 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
    id="Capa_1"
-   x="0px"
-   y="0px"
-   viewBox="0 0 437.812 437.812"
-   style="enable-background:new 0 0 437.812 437.812;"
-   xml:space="preserve"
-   sodipodi:docname="supermarket.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
-   id="metadata49"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs47" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="792"
-   inkscape:window-height="480"
-   id="namedview45"
-   showgrid="false"
-   inkscape:zoom="0.53904414"
-   inkscape:cx="218.90601"
-   inkscape:cy="218.90601"
-   inkscape:window-x="0"
-   inkscape:window-y="25"
-   inkscape:window-maximized="0"
-   inkscape:current-layer="Capa_1" />
-<g
-   id="g12"
-   style="fill:#666666;fill-opacity:1">
-	<g
-   id="g10"
-   style="fill:#666666;fill-opacity:1">
-		<g
-   id="g8"
-   style="fill:#666666;fill-opacity:1">
-			<circle
-   cx="152.033"
-   cy="390.792"
-   r="47.02"
-   id="circle2"
-   style="fill:#666666;fill-opacity:1" />
-			<circle
-   cx="350.563"
-   cy="390.792"
-   r="47.02"
-   id="circle4"
-   style="fill:#666666;fill-opacity:1" />
-			<path
-   d="M114.939,82.024l-16.196-49.11C92.296,13.499,74.267,0.292,53.812,0H18.808C13.037,0,8.359,4.678,8.359,10.449     s4.678,10.449,10.449,10.449h35.004c11.361,0.251,21.365,7.546,25.078,18.286l65.829,200.098l-4.702,12.016     c-5.729,14.98-4.185,31.769,4.18,45.453c8.695,13.274,23.323,21.466,39.184,21.943h203.755c5.771,0,10.449-4.678,10.449-10.449     c0-5.771-4.678-10.449-10.449-10.449H183.38c-8.797-0.304-16.849-5.017-21.42-12.539c-4.932-7.424-5.908-16.796-2.612-25.078     l6.269-15.674c0.942-2.504,1.124-5.23,0.522-7.837l-3.135-7.837l212.637-21.943c15.482-1.393,28.327-12.554,31.869-27.69     l21.943-92.473L114.939,82.024z"
-   id="path6"
-   style="fill:#666666;fill-opacity:1" />
-		</g>
-	</g>
-</g>
-<g
-   id="g14"
-   style="fill:#666666;fill-opacity:1">
-</g>
-<g
-   id="g16"
-   style="fill:#666666;fill-opacity:1">
-</g>
-<g
-   id="g18"
-   style="fill:#666666;fill-opacity:1">
-</g>
-<g
-   id="g20"
-   style="fill:#666666;fill-opacity:1">
-</g>
-<g
-   id="g22"
-   style="fill:#666666;fill-opacity:1">
-</g>
-<g
-   id="g24"
-   style="fill:#666666;fill-opacity:1">
-</g>
-<g
-   id="g26"
-   style="fill:#666666;fill-opacity:1">
-</g>
-<g
-   id="g28"
-   style="fill:#666666;fill-opacity:1">
-</g>
-<g
-   id="g30"
-   style="fill:#666666;fill-opacity:1">
-</g>
-<g
-   id="g32"
-   style="fill:#666666;fill-opacity:1">
-</g>
-<g
-   id="g34"
-   style="fill:#666666;fill-opacity:1">
-</g>
-<g
-   id="g36"
-   style="fill:#666666;fill-opacity:1">
-</g>
-<g
-   id="g38"
-   style="fill:#666666;fill-opacity:1">
-</g>
-<g
-   id="g40"
-   style="fill:#666666;fill-opacity:1">
-</g>
-<g
-   id="g42"
-   style="fill:#666666;fill-opacity:1">
-</g>
+   enable-background="new 0 0 512 512"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   sodipodi:docname="basket.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="851"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="1.2747803"
+     inkscape:cx="257.5689"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10" />
+  <g
+     id="g10">
+    <path
+       d="m337.034 420.796c.835.139 1.665.207 2.484.207 7.2 0 13.555-5.2 14.778-12.537l15-90c1.362-8.171-4.158-15.9-12.33-17.262-8.172-1.366-15.9 4.158-17.262 12.33l-15 90c-1.362 8.172 4.158 15.901 12.33 17.262z"
+       id="path2"
+       style="fill:#4d4d4d;fill-opacity:1" />
+    <path
+       d="m158.704 408.466c1.223 7.337 7.577 12.537 14.778 12.537.819 0 1.649-.067 2.484-.207 8.172-1.362 13.692-9.09 12.33-17.262l-15-90c-1.362-8.172-9.089-13.691-17.262-12.33-8.172 1.362-13.692 9.09-12.33 17.262z"
+       id="path4"
+       style="fill:#4d4d4d;fill-opacity:1" />
+    <path
+       d="m497 181h-52.791l-115.496-144.37c-5.174-6.467-14.613-7.518-21.083-2.342-6.469 5.175-7.518 14.614-2.342 21.083l100.503 125.629h-299.582l100.504-125.629c5.175-6.469 4.126-15.909-2.342-21.083-6.47-5.176-15.909-4.126-21.083 2.342l-115.497 144.37h-52.791c-8.284 0-15 6.716-15 15v60c0 8.284 6.716 15 15 15h18.686l56.892 199.121c1.839 6.44 7.725 10.879 14.422 10.879h302c6.697 0 12.583-4.439 14.423-10.879l56.891-199.121h18.686c8.284 0 15-6.716 15-15v-60c0-8.284-6.716-15-15-15zm-101.314 270h-279.372l-51.428-180h382.229zm86.314-210c-51.385 0-403.32 0-452 0v-30h452z"
+       id="path6"
+       style="fill:#4d4d4d" />
+    <path
+       d="m256 421c8.284 0 15-6.716 15-15v-90c0-8.284-6.716-15-15-15s-15 6.716-15 15v90c0 8.285 6.716 15 15 15z"
+       id="path8"
+       style="fill:#4d4d4d;fill-opacity:1" />
+  </g>
 </svg>
