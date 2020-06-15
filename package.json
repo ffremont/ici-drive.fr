@@ -1,0 +1,16 @@
+{
+  "name": "ici-drive.fr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-tools": "^8.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "hugo",
+    "deploy": "npm run build && npx firebase deploy --only hosting:ici-drive"
+  },
+  "author": "",
+  "license": "ISC"
+}

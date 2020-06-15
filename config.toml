@@ -1,0 +1,131 @@
+baseURL = "https://ici-drive.fr"
+languageCode = "fr-fr"
+title = "ici-drive, consommons local !"
+theme = "icidrive"
+
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+
+########################## Plugings ######################################
+
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+########################### Navigation ###################################
+
+# main menu
+[[menu.main]]
+URL = "contacter"
+name = "Contacter"
+weight = 1
+
+[[menu.main]]
+URL = "/espaces/consommateur"
+name = "Consommateur"
+weight = 2
+
+[[menu.main]]
+URL = "/espaces/producteur"
+name = "Producteur"
+weight = 2
+
+[[menu.main]]
+URL = "/qui-sommes-nous"
+name = "Qui sommes-nous"
+weight = 2
+
+# footer menu
+[[menu.footer]]
+URL = "contacter"
+name = "Contacter"
+weight = 1
+
+#[[menu.footer]]
+#URL = "tools"
+#name = "tools"
+#weight = 2
+
+
+######################### Default Parameters ###########################
+[params]
+# home
+home = "Accueil"
+# logo
+logo = "images/ici-drive-banner.png"
+# meta data
+author = "Florent"
+description = "Réservation de produits locaux près de chez vous grâce à ici-drive."
+# google tag manager
+google_tag_manager = "" # your id
+# google analitycs ID
+google_analitycs_id = "" # your id
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+# copyright
+copyright = ""
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# search
+[params.search]
+enable = true
+
+
+####################### banner #######################################
+[params.banner]
+bgImage = "images/banner/banner-bg.svg"
+title = "Achetez dès maintenant aux producteurs près de chez vous !"
+image = "images/devices-ici-drive.png"
+
+
+######################## call to action ###############################
+[params.cta]
+enable = false
+image = "images/hugo-muscot.svg"
+title = "Get the best hugo templates"
+description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+[params.cta.button]
+enable = true
+label = "Visit Here"
+link = "https://gethugothemes.com/shop/"
+
+
+############################## Social Site ##########################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+link = "https://www.facebook.com/Ici-drive-107385147684083/"
+#[[params.social]]
+#icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+#link = "#"
+#[[params.social]]
+#icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+#link = "#"
+#[[params.social]]
+#icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+#link = "#"
