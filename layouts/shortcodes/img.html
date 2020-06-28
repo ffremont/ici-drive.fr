@@ -1,7 +1,8 @@
 {{- $title := .Get "title" -}} 
+{{- $class := .Get "class" -}} 
 
 {{ with .Get "url" }}
-<a href="{{.}}" alt="" class="app-img-link">
+<a href="{{.}}" alt="" class="app-img-link {{$class}} ">
     <img src="{{.}}" alt="{{- $title -}}"/>
 </a>
 {{ end }}

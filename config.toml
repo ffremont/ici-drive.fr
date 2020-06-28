@@ -77,7 +77,7 @@ home = "Accueil"
 logo = "images/ici-drive-banner.png"
 # meta data
 author = "Florent"
-description = "Réservation de produits locaux près de chez vous grâce à ici-drive."
+description = "Réservation de produits locaux près de chez vous grâce à ici-drive. Avec sa recherche géographique, ici-drive vous permet de découvrir les produits des producteurs à proximité. Mode d'emploi : 1. je réserve en validant mon panier en choisissant un créneau pour le retrait 2. le producteur vérifie 3. je confirme éventuellement et je règle / retire les produits au moment choisie sur le lieu du Drive."
 # google tag manager
 google_tag_manager = "UA-164078504-1" # your id
 # google analitycs ID
@@ -106,12 +106,12 @@ image = "images/devices-ici-drive.png"
 
 ######################## call to action ###############################
 [params.cta]
-enable = false
-image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
-[params.cta.button]
 enable = true
+image = "images/marker.svg"
+title = "Acheter directement près de chez vous"
+description = "ici-drive vous permet de venir un **consom'acteur**. Vous faites plus que d'acheter, vous agissez pour l'économie locale. Pour les producteurs, c'est une alternative ouverte et gratuite pour se développer et être visible."
+[params.cta.button]
+enable = false
 label = "Visit Here"
 link = "https://gethugothemes.com/shop/"
 

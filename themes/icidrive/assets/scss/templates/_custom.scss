@@ -108,3 +108,15 @@ section.blog-area{
         }
     }
 }
+
+/**
+* général
+*/
+.content ul li::before{
+    content:"❯";
+}
+
+.single .title-area  .illustration img{
+    width: 300px !important;
+    margin-left: calc(50% - 150px);
+}

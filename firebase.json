@@ -1,10 +1,22 @@
 {
   "hosting": {
+    "trailingSlash": false,
     "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "headers": [
+      {"source": "/categories/**","headers": [{"key": "X-Robots-Tag","value": "noindex"}]},
+      {"source": "/espaces/","headers": [{"key": "X-Robots-Tag","value": "noindex"}]},
+      {"source": "/tools/**","headers": [{"key": "X-Robots-Tag","value": "noindex"}]},
+      {"source": "/tags/**","headers": [{"key": "X-Robots-Tag","value": "noindex"}]},
+      {"source": "/search/**","headers": [{"key": "X-Robots-Tag","value": "noindex"}]},
+      {"source": "/author/**","headers": [{"key": "X-Robots-Tag","value": "noindex"}]},
+      {"source": "/contacter","headers": [{"key": "X-Robots-Tag","value": "noindex"}]},
+      {"source": "/qui-sommes-nous","headers": [{"key": "X-Robots-Tag","value": "noindex"}]}
+    
     ]
   }
 }
