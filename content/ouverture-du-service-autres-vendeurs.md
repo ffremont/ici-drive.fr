@@ -8,7 +8,7 @@ type = "post"
 +++
 
 ## Elargissement 
-**Initialement lancé pour les producteurs locaux**, la solution ici-drive à pour ADN de promouvoir les produits locaux ainsi que le savoir-faire. 
+**Initialement lancée pour les producteurs locaux**, la solution ici-drive à pour mission de promouvoir les produits locaux ainsi que le savoir-faire. 
 Il nous paraît nécessaire pendant cette période de confinement d'être solidaire des commerçants, restaurateurs et artisans non essentiels en leur ouvrant l'accès à cet outil.
 
 ## Inscription
