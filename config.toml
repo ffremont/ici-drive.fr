@@ -50,18 +50,18 @@ weight = 2
 [[menu.main]]
 URL = "/espaces/vendeur"
 name = "Vendeur"
-weight = 2
+weight = 3
 
 [[menu.main]]
 URL = "/qui-sommes-nous"
 name = "Qui sommes-nous"
-weight = 2
+weight = 4
 
 # footer menu
 [[menu.footer]]
 URL = "contacter"
 name = "Contacter"
-weight = 1
+weight = 5
 
 #[[menu.footer]]
 #URL = "tools"
@@ -86,6 +86,7 @@ google_analitycs_id = "" # your id
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
 copyright = ""
+espace_vendeur_url="https://admin.ici-drive.fr"
 
 # preloader
 [params.preloader]
