@@ -100,7 +100,7 @@ enable = true
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Achetez dès maintenant aux produits près de chez vous !"
+title = "Achetez dès maintenant près de chez vous !"
 image = "images/devices-ici-drive.png"
 
 
