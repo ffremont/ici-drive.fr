@@ -48,8 +48,8 @@ name = "Consommateur"
 weight = 2
 
 [[menu.main]]
-URL = "/espaces/producteur"
-name = "Producteur"
+URL = "/espaces/vendeur"
+name = "Vendeur"
 weight = 2
 
 [[menu.main]]
@@ -77,7 +77,7 @@ home = "Accueil"
 logo = "images/ici-drive-banner.png"
 # meta data
 author = "Florent"
-description = "Réservation de produits locaux près de chez vous grâce à ici-drive. Avec sa recherche géographique, ici-drive vous permet de découvrir les produits des producteurs à proximité. Mode d'emploi : 1. je réserve en validant mon panier en choisissant un créneau pour le retrait 2. le producteur vérifie 3. je confirme éventuellement et je règle / retire les produits au moment choisie sur le lieu du Drive."
+description = "Réservation de produits locaux près de chez vous grâce à ici-drive. Avec sa recherche géographique, ici-drive vous permet de découvrir les produits des producteurs / commerçants / restaurateurs / artisans à proximité. Mode d'emploi : 1. je réserve en validant mon panier en choisissant un créneau pour le retrait 2. le vendeur vérifie 3. je confirme éventuellement et je règle / retire les produits au moment choisie sur le lieu du Drive ou me fait livrer."
 # google tag manager
 google_tag_manager = "UA-164078504-1" # your id
 # google analitycs ID
@@ -100,7 +100,7 @@ enable = true
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Achetez dès maintenant aux producteurs près de chez vous !"
+title = "Achetez dès maintenant aux produits près de chez vous !"
 image = "images/devices-ici-drive.png"
 
 

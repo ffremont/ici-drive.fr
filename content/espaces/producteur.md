@@ -1,6 +1,6 @@
 +++
 title = "Construisons ensemble ce projet"
-image = "/images/tractor.svg"
+image = "/images/shop.svg"
 date = 2020-11-07T05:00:00Z
 description = "Producteur, je peux créer mon espace de produits afin de permettre la réservation en ligne"
 categories = ["Producteur"]
