@@ -35,7 +35,7 @@
         </ul>
         {{ if .Site.Params.espace_vendeur_url }}
         <div class="espace-vendeur">
-          <a  href="{{.Site.Params.espace_vendeur_url}}" target="_blank" class="app-header-btn">Espace vendeur</a>
+          <ul class="navbar-nav ml-auto"><li class="nav-item"><a  href="{{.Site.Params.espace_vendeur_url}}" target="_blank" class="nav-link app-header-btn">Espace vendeur</a></li></ul>
         </div>
         {{ end }}
         {{ if .Site.Params.search.enable }}
